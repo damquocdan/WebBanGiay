@@ -16,7 +16,7 @@ session_start();
 </head>
 
 <body>
-<nav class="navbar navbar-expand-lg navbar-light">
+<nav class="navbar navbar-expand-lg navbar-light" style="height: 100px;">
         <a class="navbar-brand" href="TrangChuUsers.php"><img src="images/shoeslogo.png" alt="ảnh lỗi"></a>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
@@ -39,7 +39,7 @@ session_start();
                         <input class="form-control mr-sm-2" type="text" name="txtSearch" placeholder="Search"
                             aria-label="Search">
                         <button class="btn btn-outline-success my-2 my-sm-0" id="nut" type="submit">Search</button>
-                    </form>
+            </form>
           
         </div>
     </nav>

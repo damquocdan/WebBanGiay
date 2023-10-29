@@ -21,6 +21,7 @@
     }
 </style>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<img src="./images/banner.jpg" alt="" width="100%">
 <div class="container-fluid" style="min-height: 100%;">
     <div class="row">
         <div class="col-md-9 offset-md-1">
